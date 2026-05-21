@@ -1,5 +1,5 @@
 # c-learning-scripts-u
-This is a homework repository of Introduction of C Programming (2026).
+This is a homework repository for C Programming at university(2026).
 
 ## prog1.c
 999以下の自然数を入力すると、位ごとに数を分離して画面表示するプログラム
