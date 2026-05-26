@@ -22,3 +22,6 @@ This is a homework repository for C Programming at university(2026).
 ## prog4_3.c
 品物の定価と割引率（％）を入力し、割引後の価格を求めるプログラム.
 ただし割引後の価格に消費税（10%）も加算し、小数点以下の数値を切り捨てた結果を表示すること。
+
+## prog5.c
+単精度(float)型変数fnumの初期値を0.0 に設定した後、0.1をn回繰返し加算したときのfnumの値を画面に表示するプログラム
