@@ -8,7 +8,7 @@ int main(void)
 	for (i=1; i<=n; i++)
 	{
 		fnum = fnum + 0.1;
-		printf("%3d: %f\n", i, fnum);
+		printf("%f\n",fnum);
 	}
 	
 	return 0;
